@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T05:38:34.824Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.79 Chrome/79.0.3945.79 Safari/537.36" etag="Aqhyp0zUrPOVCYsYpHCP" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T06:27:39.728Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.79 Chrome/79.0.3945.79 Safari/537.36" etag="KcPUqLfZl2PSz1-TgCqT" version="12.5.5" type="github" pages="3">
   <diagram id="8nOKOIAqE9J_nMNhOi3M" name="Page-1">
     <mxGraphModel dx="864" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,6 +65,65 @@
         </mxCell>
         <mxCell id="Lv-MiLzxP27QWiunbMKU-15" value="&lt;h3&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;HTTP&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="526" width="60" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ggjh3eerFGuVb78k_3MP" name="Page-2">
+    <mxGraphModel dx="1866" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-0"/>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-1" parent="CklQ-tiqUxhHkNOldWMk-0"/>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=none;image=https://upload.wikimedia.org/wikipedia/commons/6/66/Cartoon_Man_Approving_His_New_Computer.svg;" vertex="1" parent="CklQ-tiqUxhHkNOldWMk-1">
+          <mxGeometry x="250" y="400" width="174.9" height="191.47" as="geometry"/>
+        </mxCell>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=none;image=https://upload.wikimedia.org/wikipedia/commons/e/e1/Black_Man_Writing_Notes_While_Using_A_Computer_Cartoon.svg;" vertex="1" parent="CklQ-tiqUxhHkNOldWMk-1">
+          <mxGeometry x="-540" y="370" width="205.68" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=none;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjii-hpP9Tx4J7vQXD6-U_YNdkS73XKCp0X021htH7DHG1LKVhA&amp;s;" vertex="1" parent="CklQ-tiqUxhHkNOldWMk-1">
+          <mxGeometry x="-180" y="380" width="283.61" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-8" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CklQ-tiqUxhHkNOldWMk-1" target="CklQ-tiqUxhHkNOldWMk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="430" as="sourcePoint"/>
+            <mxPoint x="390" y="170" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-360" y="400"/>
+              <mxPoint x="130" y="250"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CklQ-tiqUxhHkNOldWMk-9" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Courier New&quot;&gt;TCP/IP&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CklQ-tiqUxhHkNOldWMk-1">
+          <mxGeometry x="-227" y="303" width="70" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9etHqEUF3zv6x9iUJ0p6" name="Page-3">
+    <mxGraphModel dx="864" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-0"/>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-1" parent="cr44sNOxG7OPq7Pub4GQ-0"/>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=none;image=https://mpng.pngfly.com/20190710/brp/kisspng-vector-graphics-laptop-computer-icons-creative-mar-halalweb-5d25b0c6f07354.1297541615627511749849.jpg;" vertex="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry x="40" y="440" width="210" height="210" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=none;image=https://mpng.pngfly.com/20180318/kdw/kisspng-computer-servers-computer-icons-application-server-virtualization-cliparts-5aaf04c0a83454.332127381521419456689.jpg;" vertex="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry x="600" y="240" width="250" height="238.94" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-4" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="540" as="sourcePoint"/>
+            <mxPoint x="560" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-5" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot;&gt;HTTP/HTTPS&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-40;" vertex="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry x="275" y="385" width="160" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-7" value="&lt;h3&gt;&lt;font face=&quot;Courier New&quot;&gt;https://192.168.80.1/&lt;/font&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;gradientColor=none;rotation=-40;align=center;" vertex="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry x="290" y="430" width="270" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="cr44sNOxG7OPq7Pub4GQ-8" value="&lt;h4&gt;&lt;font style=&quot;font-size: 15px&quot; face=&quot;Courier New&quot;&gt;DNS =&amp;gt; www.example.com&amp;nbsp;&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-40;" vertex="1" parent="cr44sNOxG7OPq7Pub4GQ-1">
+          <mxGeometry x="370" y="478.94" width="220" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
