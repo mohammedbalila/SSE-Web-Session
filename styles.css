@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    padding: 15px;
+    }
+    p {
+        color: rgb(14, 70, 92);
+    }
+    .headers {
+        color: blue;
+    }
+    img {
+        width: 200px;
+        height: 200px;
+    }
+    
